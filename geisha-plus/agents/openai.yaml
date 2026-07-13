@@ -1,1 +1,7 @@
-# geisha-plus
+interface:
+  display_name: "瑰夏plus"
+  short_description: "对话式内容策略陪跑，覆盖短视频、直播间、商品可视化和品牌内容。"
+  default_prompt: "Use $geisha-plus to help me diagnose this content idea through dialogue."
+
+policy:
+  allow_implicit_invocation: true
