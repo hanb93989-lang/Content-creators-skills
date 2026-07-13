@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#geisha-plus">
-    <img src="https://img.shields.io/badge/English-README-black?style=for-the-badge" alt="English README">
+   
   </a>
   <a href="#中文说明">
     <img src="https://img.shields.io/badge/中文-说明-blue?style=for-the-badge" alt="Chinese README">
