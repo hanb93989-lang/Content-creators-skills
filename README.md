@@ -1,7 +1,7 @@
 # geisha-plus
 
 <p align="center">
-  <a href="#HI I'M GEISHA ">
+  <a href="#geisha-plus">
     <img src="https://img.shields.io/badge/English-README-black?style=for-the-badge" alt="English README">
   </a>
   <a href="#中文说明">
